@@ -1,0 +1,2 @@
+# Recipe-Website
+server: NODE.js, client: VUE.js Tools: Rest API, Azure DB, Heroku, Swagger API-YAML, Postman, Bootstrap, Working with an external API: spoonacular.com The website presents recipes, users can register / login, save and watch favorite recipes, share family recipes, get random recipes, search recipes using filters, etc. The server applies RESTful API architecture, and to manage the client’s requests it uses routing. The front-end is SPA architecture based.
